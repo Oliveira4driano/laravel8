@@ -2,9 +2,6 @@
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
 ## About Laravel
@@ -18,3 +15,6 @@ http://localhost:8000/usuarios/create
 
 ![Screenshot_2020-09-23 AccessCredito(2)](https://user-images.githubusercontent.com/33138839/94050375-2aa2d600-fda4-11ea-9336-067d1d12cd15.png)
 http://localhost:8000/usuarios/20
+
+![Screenshot_2020-09-23 AccessCredito(3)](https://user-images.githubusercontent.com/33138839/94050890-de0bca80-fda4-11ea-975d-3c02114b52cc.png)
+http://localhost:8000/usuarios/22/edit
