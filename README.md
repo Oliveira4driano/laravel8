@@ -11,3 +11,7 @@
 
 ![Screenshot_2020-09-23 AccessCredito](https://user-images.githubusercontent.com/33138839/94049493-114d5a00-fda3-11ea-96d6-2dbd3c5cc435.png)
 http://localhost:8000/usuarios
+
+
+![Screenshot_2020-09-23 AccessCredito(1)](https://user-images.githubusercontent.com/33138839/94049954-9c2e5480-fda3-11ea-9961-94b0e6cabd4d.png)
+http://localhost:8000/usuarios/create
