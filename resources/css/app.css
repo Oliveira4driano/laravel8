@@ -1,0 +1,22 @@
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:   #a0aec068;
+    color: white;
+    text-align: center;
+}
+.body {
+    background-color:  #cbd5e0
+} 
+
+.content {
+    min-height: calc(100vh - 70px);
+    
+    background-color:  #cbd5e0
+  }
+  
+
+
